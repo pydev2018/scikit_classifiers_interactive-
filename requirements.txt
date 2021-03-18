@@ -1,3 +1,4 @@
 scikit-learn
 streamlit
 plotly
+gunicorn==20.0.4
